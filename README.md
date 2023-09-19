@@ -1,4 +1,4 @@
 Projeye ait ekran görüntüleri:
 
 
-![E-Book](assets/E-Book.gif)
+<img src="assets/E-Book.gif" alt="E-Book" width="200"/>
